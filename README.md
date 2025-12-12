@@ -45,7 +45,7 @@ python photo_filter_app.py
 | **S** | Sharpening |
 | **E** | Sobel Edge Detection |
 | **C** | Canny Edge Detection |
-| **P** | Peanut Filter |
+| **A** | Peanut Filter |
 | **N** | No Filter |
 | **H** | Toggle Help Text |
 | **+/-** | Adjust filter parameters (Gaussian sigma, Canny thresholds) |
@@ -82,3 +82,4 @@ The Peanut Filter:
 - **Webcam not detected**: Ensure your webcam is connected and not in use by another application
 - **Low FPS**: Reduce frame resolution or increase face detection interval
 - **Peanut filter not detecting faces**: Ensure adequate lighting and face is clearly visible
+
