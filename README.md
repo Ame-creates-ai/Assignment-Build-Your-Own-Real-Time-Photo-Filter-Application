@@ -83,3 +83,12 @@ The Peanut Filter:
 - **Low FPS**: Reduce frame resolution or increase face detection interval
 - **Peanut filter not detecting faces**: Ensure adequate lighting and face is clearly visible
 
+
+
+## Screenshots 
+**So I was able to have to peanut filter but it looked very weird I am still trying to fix the filter as i want it to look like this example**
+
+<img width="498" height="413" alt="image" src="https://github.com/user-attachments/assets/594da92c-e25d-4866-ab0a-d9a17f5e1f95" />
+<img width="199" height="415" alt="peanut_texture" src="https://github.com/user-attachments/assets/5b7a2fab-27b0-4ba7-88d8-0a5b96c54595" />
+
+
